@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
-    - cron: "06 14 * * *"
+    - cron: "18 14 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Work Stats README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
