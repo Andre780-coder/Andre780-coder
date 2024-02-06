@@ -6,10 +6,12 @@
 
 - 🌱 Currently focusing on **Android Development with React-Native**
 
+- 🔭 Also learning **NodeJs** for Backend Development
+
 - 📫 How to reach me **opolloandres@gmail.com**
 
 
-
+## Weekly Stats Update
 <!--START_SECTION:waka-->
 
 ```txt
