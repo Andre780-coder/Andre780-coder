@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=I'm+Andrew+Opollo!;Welcome+to+my+Github:)."> </h1>
-<h1>Android Engineer from Kenya.</h1>
+
+## Android Engineer from Kenya
 
 
 - 🌱 Currently focusing on **Android Development with React-Native**
