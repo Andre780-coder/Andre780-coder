@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=I'm+Andrew+Opollo!;Welcome+to+my+Github:)."> </h1>
+
 <!--START_SECTION:waka-->
 
 ```txt
